@@ -1,0 +1,17 @@
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\bin\Debug\项目尝试.exe.config
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\bin\Debug\项目尝试.exe
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\bin\Debug\项目尝试.pdb
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form1.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Properties.Resources.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.csproj.GenerateResource.cache
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.csproj.CoreCompileInputs.cache
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.exe
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.pdb
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form2.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form3.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form4.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form5.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form6.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form7.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form8.resources
+F:\WINDOWS 窗体程序\项目尝试\项目尝试\obj\Debug\项目尝试.Form9.resources
